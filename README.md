@@ -18,20 +18,20 @@
 
 <br>
 
-<a href="https://github.com/[YOUR_USERNAME]">
+<a href="https://github.com/kushal08-04">
   <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?label=Followers&style=for-the-badge&color=8B1E3F&labelColor=2B0A16" alt="GitHub Followers">
 </a>
 &nbsp;
-<a href="https://github.com/[YOUR_USERNAME]?tab=repositories">
+<a href="https://github.com/kushal08-04?tab=repositories">
   <img src="https://img.shields.io/github/stars/[YOUR_USERNAME]?affiliations=OWNER&style=for-the-badge&color=EF93C4&labelColor=5A1734" alt="GitHub Stars">
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20Views&color=EF93C4&style=for-the-badge" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=kushal08-04&label=Profile%20Views&color=EF93C4&style=for-the-badge" alt="Profile Views">
 
 <br><br>
 
-<a href="https://github.com/[YOUR_USERNAME]?tab=followers">
-  <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?style=social" alt="GitHub">
+<a href="https://github.com/kushal08-04?tab=followers">
+  <img src="https://img.shields.io/github/followers/kushal08-04?style=social" alt="GitHub">
 </a>
 
 </div>
